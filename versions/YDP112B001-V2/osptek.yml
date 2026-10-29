@@ -1,0 +1,10 @@
+id: YDP112B001-V2
+category: displays
+size: "1.12"
+panel: tft
+resolution: 50x160
+interface: [spi]
+driver: GC9D01
+touch: null
+outline: 10.8 x 32.18 x 2.11 mm
+active_area: 8.49 x 27.17 mm
